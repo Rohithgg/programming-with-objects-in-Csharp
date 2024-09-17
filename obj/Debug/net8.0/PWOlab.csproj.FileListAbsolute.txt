@@ -120,3 +120,4 @@ E:\PWO\PWOlab\obj\Debug\net8.0\refint\PWOlab.dll
 E:\PWO\PWOlab\obj\Debug\net8.0\PWOlab.pdb
 E:\PWO\PWOlab\obj\Debug\net8.0\PWOlab.genruntimeconfig.cache
 E:\PWO\PWOlab\obj\Debug\net8.0\ref\PWOlab.dll
+E:\PWO\PWOlab\obj\Debug\net8.0\PWOlab.sourcelink.json

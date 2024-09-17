@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PWOlab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22621a70167571f2eecd538d221ca766ed089ccf")]
 [assembly: System.Reflection.AssemblyProductAttribute("PWOlab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PWOlab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

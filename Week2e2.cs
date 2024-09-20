@@ -1,6 +1,4 @@
-﻿using System.Data.SqlTypes;
-
-namespace PWOlab;
+﻿namespace PWOlab;
 
 public class Week2e2
 {

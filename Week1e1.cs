@@ -5,7 +5,7 @@
         public static void Week1()
         {
             Console.ReadLine();
-            Console.WriteLine("hello nigga");
+            Console.WriteLine("hello world");
         }
     }
 }
